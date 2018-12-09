@@ -40,14 +40,13 @@ Same tutorial as in chain 1. Here we complete the entire tutorial.
 End result is a WreckingBall physic simulator.
 ![Screenshot](Simulations/WreckingBall/screenshot.png)
 
-
 ## Materials
 ### Material 1
 How to create good 3d materials, not just textures on objects.
 Here i follow a tutorial and create a great material for unity.
-This tutorial also show how to create bump maps for textures in photoshop.
-This tutorial is not finished yet, i need photoshop to finish it.
+This tutorial also show how to create bump maps, reflection maps and displacement maps for textures in photoshop.
 ![Screenshot](Materials/Material 1/material_before.png)
+![Screenshot](Materials/Material 1/material_after.png)
 
 ### Material 2
 Another "good" 3d material with bumps. Here I also follow a tutorial.
