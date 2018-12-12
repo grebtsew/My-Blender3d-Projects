@@ -49,6 +49,17 @@ Same tutorial as in chain 1. Here we complete the entire tutorial.
 End result is a WreckingBall physic simulator.
 ![Screenshot](Simulations/WreckingBall/screenshot.png)
 
+### SoftBodyDemolition
+Watching video on youtube and trying to recreate collisions in blender3d.
+In this example we use soft body collision on cube.
+![Screenshot](Simulations/SoftBodyDemolition/screenshot.png)
+
+### CellFracture
+Watching video on youtube and trying to recreate collisions in blender3d.
+In this example we use rigidbody with cell fracture addon collision on a cube.
+![Screenshot](Simulations/CellFracture/screenshot.png)
+
+
 ## Materials
 In Unity3d we normaly use normal maps and height maps, to use blender materials
 you will have to recreate them in unity. I recommed converting the textures in
