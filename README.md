@@ -57,7 +57,31 @@ In this example we use soft body collision on cube.
 ### CellFracture
 Watching video on youtube and trying to recreate collisions in blender3d.
 In this example we use rigidbody with cell fracture addon collision on a cube.
+This effect can be edited with bullet constraint tools addon.
 ![Screenshot](Simulations/CellFracture/screenshot.png)
+
+### BooleanModifier
+Watching video on youtube and trying to recreate collisions in blender3d.
+In this example we use boolean modifier.
+![Screenshot](Simulations/BooleanModifier/screenshot.png)
+
+### BuildModifier
+Watching video on youtube and trying to recreate collisions in blender3d.
+In this example we use build modifier.
+![Screenshot](Simulations/BuildModifier/screenshot.png)
+
+### ClothSimulation
+Watching video on youtube and trying to recreate collisions in blender3d.
+In this example we use cloth simulation.
+![Screenshot](Simulations/ClothSimulation/screenshot.png)
+
+### ExplosionModifier
+Watching video on youtube and trying to recreate collisions in blender3d.
+In this example we use explosion modifier.
+![Screenshot](Simulations/ExplosionModifier/screenshot.png)
+
+
+
 
 
 ## Materials
