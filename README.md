@@ -95,11 +95,11 @@ the program CrazyBump, free to download, it generates all needed maps from a tex
 How to create good 3d materials, not just textures on objects.
 Here i follow a tutorial and create a great material in blender.
 This tutorial also show how to create bump maps, reflection maps and displacement maps for textures in photoshop.
-![Screenshot](Materials/Material 1/material_before.png)
-![Screenshot](Materials/Material 1/material_after.png)
+![Screenshot](Materials/Material1/material_before.png)
+![Screenshot](Materials/Material1/material_after.png)
 
 ### Material 2
 Another "good" 3d material with bumps. Here I also follow a tutorial.
 This Material is Cycle rendered and can be hard to bake for Unity.
 Here we create a material from nodes in blender3d.
-![Screenshot](Materials/Material 1/material_2.png)
+![Screenshot](Materials/Material2/material_2.png)
