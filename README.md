@@ -38,7 +38,7 @@ With collider object. ( I needed this in unity )
 ### Towel 1
 An cloth colliding towel, with easy material.
 Followed a tutorial.
-![Screenshot](Objects/towel1/screenshot.png)
+![Screenshot](Objects/Towel1/screenshot.png)
 
 ## Simulations
 Here are some objects and physics I wanted to try out in blender.
