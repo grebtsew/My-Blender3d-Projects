@@ -23,22 +23,22 @@ Below are all current accessable objects I prepared so far.
 A simple chain, consisting of several objects.
 I followed a tutorial on youtube.
 Link to source in folder.
-![Screenshot](Objects/Chain\ 1/screenshot.png)
+![Screenshot](Objects/Chain1/screenshot.png)
 
 ### Monkey 1
 Just created the monkey-like primitive in blender.
 With collider object.
-![Screenshot](Objects/Monkey\ 1/screenshot.png)
+![Screenshot](Objects/Monkey1/screenshot.png)
 
 ### Torus 1
 Just created torus primitive in blender.
 With collider object. ( I needed this in unity )
-![Screenshot](Objects/Torus\ 1/screenshot.png)
+![Screenshot](Objects/Torus1/screenshot.png)
 
 ### Towel 1
 An cloth colliding towel, with easy material.
 Followed a tutorial.
-![Screenshot](Objects/towel\ 1/screenshot.png)
+![Screenshot](Objects/towel1/screenshot.png)
 
 ## Simulations
 Here are some objects and physics I wanted to try out in blender.
