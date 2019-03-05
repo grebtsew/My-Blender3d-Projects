@@ -102,4 +102,4 @@ This tutorial also show how to create bump maps, reflection maps and displacemen
 Another "good" 3d material with bumps. Here I also follow a tutorial.
 This Material is Cycle rendered and can be hard to bake for Unity.
 Here we create a material from nodes in blender3d.
-![Screenshot](Materials/Material2/material_2.png)
+![Screenshot](Materials/Material2/Material_2.png)
